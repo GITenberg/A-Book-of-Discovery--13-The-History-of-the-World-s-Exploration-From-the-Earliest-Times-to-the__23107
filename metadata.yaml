@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25681'
     url: http://www.gutenberg.org/2009/agents/25681
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23107#A-Book-of-Discovery--13-The-History-of-the-World-s-Exploration-From-the-Earliest-Times-to-the_
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
 identifiers:
